@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey 👋, I'm Abdullah </h1>
-<h3 align="center">AI & Software Engineering Student</h3>
+<h3 align="center">AI Student</h3>
 
 <p align="center">
   <em>Building gym-tech systems & intelligence-driven apps — Clean code, real-world projects & continuous growth</em>
