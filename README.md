@@ -22,7 +22,7 @@
 
 ---
 
-### ⚡ Tech Stack (Cyber Neon Style)
+### ⚡ Tech Stack 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-000000?logo=java&logoColor=00C2FF&labelColor=000000&color=000000" />
@@ -64,8 +64,8 @@ Deposit, withdraw, balance
 ### 🌐 Contact
 
 - 🇸🇦 Saudi Arabia  
-- ✉️ Email: *add yours here*  
-- 💼 LinkedIn: *add link here*  
+- ✉️ Email: amri.abdullah987@gmail.com 
+- 💼 LinkedIn:  
 
 ---
 
