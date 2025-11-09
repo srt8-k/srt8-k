@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/srt8-k/srt8-k/main/assets/github_banner_ai_futuristic_1920x512.png" alt="AI Banner" />
 </p>
 
-<h1 align="center">Hey 👋, I'm Abdullah Al</h1>
+<h1 align="center">Hey 👋, I'm Abdullah </h1>
 <h3 align="center">AI & Software Engineering Student</h3>
 
 <p align="center">
