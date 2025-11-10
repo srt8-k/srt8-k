@@ -65,7 +65,7 @@ Deposit, withdraw, balance
 
 - 🇸🇦 Saudi Arabia  
 - ✉️ Email: amri.abdullah987@gmail.com 
-- 💼 LinkedIn:  
+- 💼 LinkedIn: www.linkedin.com/in/abdullah-al-amri-274741398  
 
 ---
 
