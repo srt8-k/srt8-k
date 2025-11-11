@@ -14,15 +14,15 @@
 
 ###
 
-<p align="left">🎓 CS Student specializing in Artificial Intelligence (AI)<br>🧠 I work with Java, Python, MySQL & AI concepts<br>💪 Currently building:<br>Gym Management System (Java + MySQL)<br>AI Gym Trainer Assistant<br>🔥 Passionate about OOP, clean design, DB systems & real projects<br>🎯 Goal: Become a Full-Stack / AI Enginee</p>
+<p align="left"> CS Student specializing in Artificial Intelligence (AI)<br> I work with Java, Python, MySQL & AI concepts<br> Currently building:<br>Gym Management System (Java + MySQL)<br>AI Gym Trainer Assistant<br> Passionate about OOP, clean design, DB systems & real projects<br> Goal: Become a Full-Stack / AI Enginee</p>
 
 ###
 
-<h2 align="left">🧩 Featured Projects</h2>
+<h2 align="left"> Featured Projects</h2>
 
 ###
 
-<p align="left">✅ Gym Management System (Java + MySQL)<br>Members, Trainers, BMI, Calories, Payments, Admin features<br><br>✅ Gym E-Store Java GUI<br>Cart, quantity update, multiple payments, Swing UI<br><br>✅ AI Gym Assistant<br>Suggest workouts & diet plans using rules/logic<br><br>✅ Banking System (Python OOP)<br>Deposit, withdraw, balance</p>
+<p align="left"> Gym Management System (Java + MySQL)<br>Members, Trainers, BMI, Calories, Payments, Admin features<br><br> Gym E-Store Java GUI<br>Cart, quantity update, multiple payments, Swing UI<br><br> AI Gym Assistant<br>Suggest workouts & diet plans using rules/logic<br><br> Banking System (Python OOP)<br>Deposit, withdraw, balance</p>
 
 ###
 
