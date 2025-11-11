@@ -10,6 +10,10 @@
 
 ###
 
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29yNjRhMmkyb2d0bzNnMHpyMHF0MmJhbnV5dXoxcjRrczE0MDRscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pIMlKqgdZgvo4/giphy.gif"  />
+
+###
+
 <p align="left">🎓 CS Student specializing in Artificial Intelligence (AI)<br>🧠 I work with Java, Python, MySQL & AI concepts<br>💪 Currently building:<br>Gym Management System (Java + MySQL)<br>AI Gym Trainer Assistant<br>🔥 Passionate about OOP, clean design, DB systems & real projects<br>🎯 Goal: Become a Full-Stack / AI Enginee</p>
 
 ###
@@ -23,10 +27,6 @@
 ###
 
 <h2 align="left">I Code With</h2>
-
-###
-
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29yNjRhMmkyb2d0bzNnMHpyMHF0MmJhbnV5dXoxcjRrczE0MDRscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pIMlKqgdZgvo4/giphy.gif"  />
 
 ###
 
@@ -75,8 +75,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/srt8-k/srt8-k/output/snake.svg" alt="Snake animation" />
 
